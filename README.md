@@ -39,7 +39,7 @@ O projeto nasceu da necessidade de visualizar de forma clara e interativa as fin
 ```
 Orcamento_Familiar/
 │
-├── dashboard_orcamento_familiar.html   # Web App — dashboard completo
+├── index.html   # Web App — dashboard completo
 └── README.md
 ```
 
